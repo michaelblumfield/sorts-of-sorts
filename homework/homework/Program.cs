@@ -19,7 +19,10 @@ namespace homework
 
             selectionSort(numbers);// sorting the array (will work same with bubble sort)
             
-            
+            foreach (int num in numbers)
+            {
+                Console.WriteLine(num);//frompc
+            }
         }
         public static void bubbleSort(int[] numbers)
         {

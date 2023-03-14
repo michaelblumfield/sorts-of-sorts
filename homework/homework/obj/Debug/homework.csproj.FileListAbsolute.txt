@@ -6,3 +6,11 @@ C:\Users\User\Desktop\Michael\homework\homework\obj\Debug\homework.csproj.Sugges
 C:\Users\User\Desktop\Michael\homework\homework\obj\Debug\homework.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Michael\homework\homework\obj\Debug\homework.exe
 C:\Users\User\Desktop\Michael\homework\homework\obj\Debug\homework.pdb
+C:\Users\Michael\Source\Repos\examplee2\homework\homework\bin\Debug\homework.exe.config
+C:\Users\Michael\Source\Repos\examplee2\homework\homework\bin\Debug\homework.exe
+C:\Users\Michael\Source\Repos\examplee2\homework\homework\bin\Debug\homework.pdb
+C:\Users\Michael\Source\Repos\examplee2\homework\homework\obj\Debug\homework.csproj.AssemblyReference.cache
+C:\Users\Michael\Source\Repos\examplee2\homework\homework\obj\Debug\homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michael\Source\Repos\examplee2\homework\homework\obj\Debug\homework.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Source\Repos\examplee2\homework\homework\obj\Debug\homework.exe
+C:\Users\Michael\Source\Repos\examplee2\homework\homework\obj\Debug\homework.pdb

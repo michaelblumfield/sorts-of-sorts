@@ -21,7 +21,7 @@ namespace homework
             
             foreach (int num in numbers)
             {
-                Console.WriteLine(num);//frompc
+                Console.WriteLine(num);//frompc and now web
             }
         }
         public static void bubbleSort(int[] numbers)
